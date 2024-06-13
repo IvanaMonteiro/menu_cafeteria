@@ -1,0 +1,74 @@
+body {
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("../img/cafe_em_grao.jpg");
+}
+
+.box {
+  background-color: burlywood;
+  align-items: center;
+  text-align: center;
+  position: center;
+  margin-left: 400px;
+  margin-right: 400px;
+  height: 600px;
+  width: 400px;
+}
+
+h1 {
+  text-align: center;
+  font-family: Impact, sans-serif;
+  padding-top: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: black;
+}
+
+h2,
+img {
+  text-align: center;
+  font-family: Impact, sans-serif;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+tbody {
+  text-align: justify;
+}
+
+table {
+  margin: 10px;
+  text-align: left;
+}
+
+h5 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+a {
+  color: black;
+}
+
+hr {
+  width: 95%;
+  border-bottom: 3px solid brown;
+}
+
+.caramelmacchiato {
+  width: 200px;
+}
+.coffee {
+  width: 200px;
+}
+
+.desserts {
+  width: 230px;
+}
+
+.cinnamonroll {
+  width: 200px;
+}
